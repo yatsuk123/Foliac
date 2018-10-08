@@ -1,0 +1,186 @@
+body {
+	background color: white;
+	margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+
+
+
+.header {
+	position: absolute;
+	left: 0;
+	right: 0;
+	background-image: url(../img/intro-bg.jpg);
+	text-align: center;
+	height: 500px;
+	background-size: cover;
+
+}
+
+.top-menu {
+	width: 70%;
+	margin: auto;
+
+}
+
+#logo {
+	height: 60px;
+	position: absolute;
+	top: 20px;
+	left: 20%;
+	color: white;
+
+}
+
+.menu {
+	list-style-type: none;
+	position: absolute;
+	top: 20px;
+	right: 20%;
+	color: white;
+	font-size: 1.3em;
+}
+
+.top-menu-li{
+	display: inline-block;
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+
+.bigtext {
+	position: absolute;
+	right: 0px;
+	top: 180px;
+	left: 0px;
+	margin: auto;
+	color: white;
+}
+
+#button {
+	display: inline-block;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 7%;
+	border-color: #48bf72;
+	padding: 7px 10px 7px 10px;
+	color: #48bf72;
+	margin-top: 40px;
+}
+
+.main {
+	position: relative;
+	top:550px;
+	width: 70%;
+	left:15%;	
+	text-align: center;
+
+	
+
+}
+
+.middle-menu {
+	display: absolute;
+	margin: auto;
+	font-size: 0.7em;
+	width: 70%;
+
+}
+
+.mid-menu-ul {
+	position: relative;
+	top: 10px;
+	color: black;
+	font-size: 0.9em;
+	font-weight: bold;
+	
+	}
+
+.mid-menu-li{
+	display: inline-block;
+	padding: 15px;
+	background-color: #eaeaea;
+	border-radius: 5px;
+	margin-left:  2.5px;
+	margin-right: 2.5px;
+
+}
+
+.picture-blocks {
+	width: 70%;
+	position: relative;
+	top: 150px;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+	
+	}
+
+#block1 {
+	position: absolute;
+	left: 0px;
+	top: -100px;
+	width:43%;
+}
+
+#block2 {
+	position: absolute;
+	right: 0px;
+	top: -100px;
+	width:53%;
+}
+
+#block3 {
+	position: absolute;
+	left: 0px;
+	top: 120px;
+	width:60%;
+}
+
+#block4 {
+	position: absolute;
+	right: 0px;
+	top: 120px;
+	width:30%;
+	
+}
+
+#image-overlayed {
+	position: relative;
+	width: 120%;
+}
+
+.comment {
+	position: relative;
+	left: 0;
+	right: 0;
+	top: 1150px;
+	background-image: url(../img/men-computer-opt.jpg);
+	text-align: center;
+	height: 300px;
+	background-size: cover;
+
+}
+
+.bigtext2 {
+	position: absolute;
+	top: 20px;
+	margin-left: 50%;
+	color: white;
+	text-align: left;
+	font-size: 0.8em;
+	width: 30%;
+}
+
+#button2 {
+	display: inline-block;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 7%;
+    border-color: #3c4955;
+    padding: 7px 10px 7px 10px;
+    color: #3c4955;
+	margin-top: 20px;
+}
